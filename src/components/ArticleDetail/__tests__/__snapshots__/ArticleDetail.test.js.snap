@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the Article Detail correctly 1`] = `
+<View
+  style={
+    Object {
+      "padding": 20,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#000",
+        "fontSize": 20,
+        "fontStyle": "italic",
+        "fontWeight": "bold",
+        "paddingBottom": 20,
+      }
+    }
+  >
+     
+    Deutsche Bank Staff Saw Suspicious Activity in Trump and Kushner Accounts
+  </Text>
+  <Image
+    source={
+      Object {
+        "uri": "https://static01.nyt.com/images/2019/05/13/business/00deutschetrump2/00deutschetrump2-mediumThreeByTwo210.jpg",
+      }
+    }
+    style={
+      Object {
+        "height": 293,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "color": "#888",
+        "fontSize": 15,
+      }
+    }
+  >
+     
+    Willie J. Allen Jr. for The New York Times
+  </Text>
+  <View>
+    <Text
+      style={
+        Object {
+          "color": "#000",
+          "fontSize": 20,
+          "paddingTop": 10,
+        }
+      }
+    >
+       
+      By DAVID ENRICH
+    </Text>
+    <Text
+      style={
+        Object {
+          "fontSize": 15,
+        }
+      }
+    >
+       
+      2019-05-19
+    </Text>
+    <Text
+      style={
+        Object {
+          "fontSize": 20,
+          "paddingTop": 10,
+        }
+      }
+    >
+       
+      Tammy McFadden, a former Deutsche Bank employee, saw potentially suspicious transactions involving the company of Jared Kushner, President Trump’s son-in-law and adviser, she said.
+    </Text>
+  </View>
+</View>
+`;

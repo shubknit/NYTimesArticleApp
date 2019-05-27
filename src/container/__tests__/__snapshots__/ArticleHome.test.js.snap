@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the Article Home Page correctly 1`] = `
+<View>
+  <ActivityIndicator
+    animating={true}
+    color="#00ff00"
+    hidesWhenStopped={true}
+    size="large"
+  />
+</View>
+`;

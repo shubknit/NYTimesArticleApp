@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the header  correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#47E4C2",
+      "flexDirection": "row",
+      "height": 80,
+      "justifyContent": "space-between",
+      "paddingLeft": 20,
+      "paddingRight": 20,
+      "width": "100%",
+    }
+  }
+>
+  <View>
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "white",
+            "fontSize": 30,
+          },
+          undefined,
+          Object {
+            "fontFamily": "FontAwesome",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View>
+    <Text
+      style={
+        Object {
+          "color": "#fff",
+          "fontSize": 25,
+          "textAlign": "center",
+        }
+      }
+    >
+      NyTimes Most Popular
+    </Text>
+  </View>
+  <View>
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "white",
+            "fontSize": 30,
+          },
+          undefined,
+          Object {
+            "fontFamily": "FontAwesome",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+</View>
+`;
